@@ -1,3 +1,3 @@
-# Expense tracker
+# expense tracker
 
 Made with react js.
